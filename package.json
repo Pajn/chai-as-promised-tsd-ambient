@@ -1,0 +1,15 @@
+{
+  "name": "retyped-chai-as-promised-tsd-ambient",
+  "description": "TypeScript typings for chai-as-promised",
+  "version": "000-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/chai-as-promised-tsd-ambient",
+  "typescript": {
+    "definition": "chai-as-promised.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
